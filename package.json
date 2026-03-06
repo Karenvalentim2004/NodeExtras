@@ -1,0 +1,30 @@
+{
+  "name": "nodeextras",
+  "version": "1.0.0",
+  "description": "Recursos extras com o node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karenvalentim2004/NodeExtras.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Karenvalentim2004/NodeExtras/issues"
+  },
+  "homepage": "https://github.com/Karenvalentim2004/NodeExtras#readme",
+  "dependencies": {
+    "cowsay": "^1.6.0",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14",
+    "progress": "^2.0.3"
+  }
+}
