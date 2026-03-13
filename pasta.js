@@ -10,7 +10,6 @@ if (fs.existsSync(pasta)){
 }
 
 
-
 console.log("\n\n===== criando pasta ====")
 pasta = 'icones'
 if(!fs.existsSync(pasta)){
